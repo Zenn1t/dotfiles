@@ -69,6 +69,7 @@ qutebrowser
 telegram-desktop
 obs-studio
 gnucash
+focuswriter
 
 # Group: i3
 i3-wm
