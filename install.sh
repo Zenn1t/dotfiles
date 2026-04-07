@@ -88,5 +88,9 @@ mkdir -p ~/.config/nvim
 ln -sf "$DOTFILES_DIR/nvim/init.lua" ~/.config/nvim/init.lua
 echo "  -> nvim config linked"
 
+mkdir -p ~/.config/alacritty
+ln -sf "$DOTFILES_DIR/alacritty/alacritty.toml" ~/.config/alacritty/alacritty.toml
+echo "  -> alacritty config linked"
+
 echo ""
 echo "Done! Open nvim to auto-install plugins via lazy.nvim."
