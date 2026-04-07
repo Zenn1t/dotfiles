@@ -32,6 +32,7 @@ broot
 github-cli
 curl
 jq
+xmlstarlet
 fzf
 ripgrep
 fd
@@ -85,8 +86,14 @@ xorg-xinit
 xorg-xrandr
 xss-lock
 
+# Group: security
+ufw
+audit
+clamav
+
 # Group: aur
 impala
+maldet
 
 # Group: hyprland
 hyprland
